@@ -1,0 +1,145 @@
+"County","FIPS","Year","Measure Type","Variable","Value"
+"Connecticut","09","2006-2010","Number","Total Households",1359218
+"Connecticut","09","2006-2010","Number","Margins of Error",2943
+"Connecticut","09","2007-2011","Number","Total Households",1360115
+"Connecticut","09","2007-2011","Number","Margins of Error",3316
+"Connecticut","09","2008-2012","Number","Total Households",1360184
+"Connecticut","09","2008-2012","Number","Margins of Error",3254
+"Connecticut","09","2009-2013","Number","Total Households",1355849
+"Connecticut","09","2009-2013","Number","Margins of Error",3506
+"Connecticut","09","2010-2014","Number","Total Households",1356206
+"Connecticut","09","2010-2014","Number","Margins of Error",2983
+"Connecticut","09","2011-2015","Number","Total Households",1352583
+"Connecticut","09","2011-2015","Number","Margins of Error",3661
+"Connecticut","09","2012-2016","Number","Total Households",1354713
+"Connecticut","09","2012-2016","Number","Margins of Error",3509
+"Connecticut","09","2013-2017","Number","Total Households",1361755
+"Connecticut","09","2013-2017","Number","Margins of Error",3669
+"Fairfield County","09001","2006-2010","Number","Total Households",331782
+"Fairfield County","09001","2006-2010","Number","Margins of Error",1379
+"Fairfield County","09001","2007-2011","Number","Total Households",332139
+"Fairfield County","09001","2007-2011","Number","Margins of Error",1391
+"Fairfield County","09001","2008-2012","Number","Total Households",332968
+"Fairfield County","09001","2008-2012","Number","Margins of Error",1376
+"Fairfield County","09001","2009-2013","Number","Total Households",332655
+"Fairfield County","09001","2009-2013","Number","Margins of Error",1400
+"Fairfield County","09001","2010-2014","Number","Total Households",333502
+"Fairfield County","09001","2010-2014","Number","Margins of Error",1392
+"Fairfield County","09001","2011-2015","Number","Total Households",334320
+"Fairfield County","09001","2011-2015","Number","Margins of Error",1367
+"Fairfield County","09001","2012-2016","Number","Total Households",335209
+"Fairfield County","09001","2012-2016","Number","Margins of Error",1494
+"Fairfield County","09001","2013-2017","Number","Total Households",337678
+"Fairfield County","09001","2013-2017","Number","Margins of Error",1419
+"Hartford County","09003","2006-2010","Number","Total Households",347625
+"Hartford County","09003","2006-2010","Number","Margins of Error",1455
+"Hartford County","09003","2007-2011","Number","Total Households",348438
+"Hartford County","09003","2007-2011","Number","Margins of Error",1386
+"Hartford County","09003","2008-2012","Number","Total Households",349158
+"Hartford County","09003","2008-2012","Number","Margins of Error",1196
+"Hartford County","09003","2009-2013","Number","Total Households",347874
+"Hartford County","09003","2009-2013","Number","Margins of Error",1363
+"Hartford County","09003","2010-2014","Number","Total Households",348204
+"Hartford County","09003","2010-2014","Number","Margins of Error",1251
+"Hartford County","09003","2011-2015","Number","Total Households",346362
+"Hartford County","09003","2011-2015","Number","Margins of Error",1467
+"Hartford County","09003","2012-2016","Number","Total Households",347207
+"Hartford County","09003","2012-2016","Number","Margins of Error",1471
+"Hartford County","09003","2013-2017","Number","Total Households",348871
+"Hartford County","09003","2013-2017","Number","Margins of Error",1439
+"Litchfield County","09005","2006-2010","Number","Total Households",76688
+"Litchfield County","09005","2006-2010","Number","Margins of Error",553
+"Litchfield County","09005","2007-2011","Number","Total Households",76477
+"Litchfield County","09005","2007-2011","Number","Margins of Error",667
+"Litchfield County","09005","2008-2012","Number","Total Households",76149
+"Litchfield County","09005","2008-2012","Number","Margins of Error",823
+"Litchfield County","09005","2009-2013","Number","Total Households",75755
+"Litchfield County","09005","2009-2013","Number","Margins of Error",752
+"Litchfield County","09005","2010-2014","Number","Total Households",75229
+"Litchfield County","09005","2010-2014","Number","Margins of Error",695
+"Litchfield County","09005","2011-2015","Number","Total Households",74518
+"Litchfield County","09005","2011-2015","Number","Margins of Error",800
+"Litchfield County","09005","2012-2016","Number","Total Households",74339
+"Litchfield County","09005","2012-2016","Number","Margins of Error",889
+"Litchfield County","09005","2013-2017","Number","Total Households",74605
+"Litchfield County","09005","2013-2017","Number","Margins of Error",786
+"Middlesex County","09007","2006-2010","Number","Total Households",66975
+"Middlesex County","09007","2006-2010","Number","Margins of Error",762
+"Middlesex County","09007","2007-2011","Number","Total Households",66798
+"Middlesex County","09007","2007-2011","Number","Margins of Error",735
+"Middlesex County","09007","2008-2012","Number","Total Households",66728
+"Middlesex County","09007","2008-2012","Number","Margins of Error",766
+"Middlesex County","09007","2009-2013","Number","Total Households",66141
+"Middlesex County","09007","2009-2013","Number","Margins of Error",768
+"Middlesex County","09007","2010-2014","Number","Total Households",66372
+"Middlesex County","09007","2010-2014","Number","Margins of Error",735
+"Middlesex County","09007","2011-2015","Number","Total Households",66117
+"Middlesex County","09007","2011-2015","Number","Margins of Error",804
+"Middlesex County","09007","2012-2016","Number","Total Households",66467
+"Middlesex County","09007","2012-2016","Number","Margins of Error",703
+"Middlesex County","09007","2013-2017","Number","Total Households",66599
+"Middlesex County","09007","2013-2017","Number","Margins of Error",728
+"New Haven County","09009","2006-2010","Number","Total Households",330785
+"New Haven County","09009","2006-2010","Number","Margins of Error",1492
+"New Haven County","09009","2007-2011","Number","Total Households",330396
+"New Haven County","09009","2007-2011","Number","Margins of Error",1539
+"New Haven County","09009","2008-2012","Number","Total Households",329956
+"New Haven County","09009","2008-2012","Number","Margins of Error",1462
+"New Haven County","09009","2009-2013","Number","Total Households",328013
+"New Haven County","09009","2009-2013","Number","Margins of Error",1532
+"New Haven County","09009","2010-2014","Number","Total Households",327086
+"New Haven County","09009","2010-2014","Number","Margins of Error",1471
+"New Haven County","09009","2011-2015","Number","Total Households",326028
+"New Haven County","09009","2011-2015","Number","Margins of Error",1625
+"New Haven County","09009","2012-2016","Number","Total Households",326487
+"New Haven County","09009","2012-2016","Number","Margins of Error",1531
+"New Haven County","09009","2013-2017","Number","Total Households",327402
+"New Haven County","09009","2013-2017","Number","Margins of Error",1520
+"New London County","09011","2006-2010","Number","Total Households",106590
+"New London County","09011","2006-2010","Number","Margins of Error",1068
+"New London County","09011","2007-2011","Number","Total Households",107115
+"New London County","09011","2007-2011","Number","Margins of Error",746
+"New London County","09011","2008-2012","Number","Total Households",106817
+"New London County","09011","2008-2012","Number","Margins of Error",791
+"New London County","09011","2009-2013","Number","Total Households",107066
+"New London County","09011","2009-2013","Number","Margins of Error",834
+"New London County","09011","2010-2014","Number","Total Households",106882
+"New London County","09011","2010-2014","Number","Margins of Error",1020
+"New London County","09011","2011-2015","Number","Total Households",106495
+"New London County","09011","2011-2015","Number","Margins of Error",960
+"New London County","09011","2012-2016","Number","Total Households",106170
+"New London County","09011","2012-2016","Number","Margins of Error",834
+"New London County","09011","2013-2017","Number","Total Households",107193
+"New London County","09011","2013-2017","Number","Margins of Error",872
+"Tolland County","09013","2006-2010","Number","Total Households",54452
+"Tolland County","09013","2006-2010","Number","Margins of Error",638
+"Tolland County","09013","2007-2011","Number","Total Households",54386
+"Tolland County","09013","2007-2011","Number","Margins of Error",805
+"Tolland County","09013","2008-2012","Number","Total Households",54499
+"Tolland County","09013","2008-2012","Number","Margins of Error",687
+"Tolland County","09013","2009-2013","Number","Total Households",54327
+"Tolland County","09013","2009-2013","Number","Margins of Error",572
+"Tolland County","09013","2010-2014","Number","Total Households",54444
+"Tolland County","09013","2010-2014","Number","Margins of Error",672
+"Tolland County","09013","2011-2015","Number","Total Households",54467
+"Tolland County","09013","2011-2015","Number","Margins of Error",652
+"Tolland County","09013","2012-2016","Number","Total Households",54573
+"Tolland County","09013","2012-2016","Number","Margins of Error",587
+"Tolland County","09013","2013-2017","Number","Total Households",54878
+"Tolland County","09013","2013-2017","Number","Margins of Error",703
+"Windham County","09015","2006-2010","Number","Total Households",44321
+"Windham County","09015","2006-2010","Number","Margins of Error",566
+"Windham County","09015","2007-2011","Number","Total Households",44366
+"Windham County","09015","2007-2011","Number","Margins of Error",629
+"Windham County","09015","2008-2012","Number","Total Households",43909
+"Windham County","09015","2008-2012","Number","Margins of Error",610
+"Windham County","09015","2009-2013","Number","Total Households",44018
+"Windham County","09015","2009-2013","Number","Margins of Error",571
+"Windham County","09015","2010-2014","Number","Total Households",44487
+"Windham County","09015","2010-2014","Number","Margins of Error",615
+"Windham County","09015","2011-2015","Number","Total Households",44276
+"Windham County","09015","2011-2015","Number","Margins of Error",631
+"Windham County","09015","2012-2016","Number","Total Households",44261
+"Windham County","09015","2012-2016","Number","Margins of Error",466
+"Windham County","09015","2013-2017","Number","Total Households",44529
+"Windham County","09015","2013-2017","Number","Margins of Error",562
